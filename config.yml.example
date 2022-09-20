@@ -1,0 +1,6 @@
+[influx]
+url    = http://influx.tld
+token  = 
+org    = 
+bucket = 
+
